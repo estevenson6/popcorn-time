@@ -1,0 +1,24 @@
+.Main {
+    background-color: rgb(165, 219, 192);
+    padding: 1rem;
+    margin: 1rem;
+}
+.Main h1 {
+    color: rgb(14, 139, 77);
+}
+
+.Main .card {
+    background-color: aliceblue;
+    max-width: 80%;
+    margin: 1rem auto;
+    padding: 1rem;
+    border: 1px  rgb(14, 139, 77);
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px -5px;
+    transition: 0.4s;
+}
+
+.Main .card:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 15px 0px;
+}
