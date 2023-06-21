@@ -1,0 +1,27 @@
+.Movie{
+    width: 20vw;
+    height:auto;
+}
+
+.Movie .card {
+    background-color: aliceblue;
+    margin: 1rem auto;
+    padding: 1rem;
+    border: 1px rgb(14, 139, 77);
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px -5px;
+}
+
+.Movie .card:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 15px 0px;
+}
+
+img{
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px -5px;
+}
+.gladiator{
+width: 182px;
+height: 268px;
+}

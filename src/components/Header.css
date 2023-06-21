@@ -5,4 +5,8 @@
 }
 .Header h1 {
     color: rgb(0, 107, 161);
+    font-size: 3em;
+}
+.Header h2 {
+    color: rgb(0, 107, 161);
 }
